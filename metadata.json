@@ -1,0 +1,7 @@
+{
+  "name": "BIG 2 Private Equity",
+  "description": "A modern private equity firm focused on the growth and development of Panama, led by founder Rodolfo De León.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
